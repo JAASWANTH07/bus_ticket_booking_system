@@ -1,0 +1,73 @@
+/*  user List */
+#user_table thead{
+  background-color: rgba(15, 15, 206, 0.28);
+}
+#user_table td{
+  background-color: rgba(0, 0, 0, 0.13);
+  border: 1px solid #000;
+}
+#user_table th{
+  border: 1px solid #000;
+}
+#used_table table{
+  border-collapse: collapse;
+}
+/* comments table */
+#comment_table thead{
+  background-color: rgba(15, 15, 206, 0.28);
+}
+#comment_table td{
+  background-color: rgba(0, 0, 0, 0.13);
+  border: 1px solid #000;
+}
+#comment_table th{
+  border: 1px solid #000;
+}
+#comment_commentle table{
+  border-collapse: collapse;
+}
+
+/* categories table */
+#cat_table thead{
+  background-color: rgba(15, 15, 206, 0.28);
+}
+#cat_table td{
+  background-color: rgba(0, 0, 0, 0.13);
+  border: 1px solid #000;
+}
+#cat_table th{
+  border: 1px solid #000;
+}
+#cat_table table{
+  border-collapse: collapse;
+}
+/* bus table */
+#bus_table thead{
+  background-color: rgba(15, 15, 206, 0.28);
+}
+#bus_table td{
+  background-color: rgba(0, 0, 0, 0.13);
+  border: 1px solid #000;
+}
+#bus_table th{
+  border: 1px solid #000;
+}
+#bus_table table{
+  border-collapse: collapse;
+}
+
+.form-group{
+  /* width: 70%; */
+  margin-left: 45px;
+  margin-right: 45px;
+
+}
+#add-bus-form , form{
+  width: 70%;
+  border: 3px solid #000;
+  background-color: rgba(0, 0, 0, 0.13);
+}
+form .form-control{
+  background-color: rgba(15, 15, 215, 0.07);
+  border:0.1px solid #000;
+}

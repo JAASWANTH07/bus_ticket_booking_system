@@ -1,0 +1,40 @@
+BusIT.com - A Bus Schedule And Ticket Booking System
+
+HTML, CSS, PHP, MYSQL
+
+
+Admin login
+username - admin
+
+password - admin
+
+User Login
+username - sample
+
+password - password
+
+username - example
+
+password - example
+
+
+Software Requirement(any one)
+WAMP Server
+XAMPP Server
+MAMP Server
+LAMP Server
+
+
+Installation Steps
+
+1. Download zip file and Unzip file on your local server.
+2. Put this file inside "c:/wamp/www/" . or "c:/xampp/htdocs/"
+
+
+3. Database Configuration
+Open phpmyadmin
+Create Database named "bus".
+Import database bus.sql from downloaded folder(inside database)
+
+
+4. Open Your browser put inside "http://localhost/BusIT.com
